@@ -10,5 +10,13 @@ setup(
     author_email='gvanderest@gmail.com',
     install_requires=[
         'pylama',
+        'isort',
+        'radon',
+        'pylint',
+        'pyflakes',
+        'pycodestyle',
+        'pydocstyle',
+        'mypy',
+        'eradicate'
     ],
 )
